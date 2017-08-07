@@ -1,0 +1,93 @@
+<!doctype html>
+
+<html lang="es">
+	<head>
+		<title>Page Title</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="initial-scale=1.0">
+    
+      <link type="text/css" href="normalize.css" rel="stylesheet">
+        <link type="text/css" href="style.css" rel="stylesheet">
+	</head>
+
+	<body>
+    
+
+        
+        <h1><span class="color"> CURRICULUM</span> VITAE</h1>
+              <img src="http://galeon.hispavista.com/retratosalapiz/img/Penelope.jpg" alt="fotografia" width="150" height="150">
+   
+      
+          <table>
+     <tr>
+         <th> Nombre Apellidos</th>
+         <td>
+        Almudena Fernández Rosillo
+         </td>
+        
+        </tr>
+        <tr>
+            <th> Dirección</th>
+            <td>
+                Pangino nº1 1ºª
+            
+            </td>
+        </tr>
+        <tr>
+        <th>
+            Localidad 
+
+        </th>
+            <td>
+                valdepeñas ¨(Ciudad Real)
+            </td>
+        </tr>
+        <tr>
+            <th> Código Postal</th>
+            <td> 13300</td>
+        </tr>
+        <tr>
+            <th> Teléfonos
+            </th>
+            <td > <mark> 926312784 -686880954</mark>
+            </td>
+        </tr>
+        </table>
+        
+        <h2>EXPERIENCIA</h2>
+        <div style="color:blue;">
+             
+      <ul>
+        <li> <em>2011  Registro de la Propiedad </em></li>
+          <li><em>
+              2002-2006 Empresa de Punto </em>
+          </li>
+          
+          <li> <em>1978-2000  Galerias Palacio S.L.</em></li>
+              
+        </ul>
+        </div>
+        <h2> Formación Académica</h2>
+        <ol>
+            <li>2007 Prueba de acceso a grado medio</li>
+            <li>1977 Graduado escolar</li>
+      </ol>
+ <h3>Formación Adiccional</h3>
+           <ul>
+               <li> <strong>2017 Curso de creación páginas web</strong></li>
+        <li>2015 Curso de contabilidad</li>
+        <li>2015 Curso de nóminas y seguridad social</li>
+        <li>2014 Curso de Ingles básico</li>
+        <li>2014 curso de excel avanzado</li>
+               <li>2013 curso de ofimatica</li>
+    
+            </ul> 
+            
+        
+            <a href="/www.google."></a> 
+       
+      
+        
+        
+	</body>
+</html>
