@@ -1,11 +1,29 @@
 body{
+    width: 90%;
+    margin: 0 auto;
 background-color:burlywood;
-font-size: 2em;
+
+font-size: 1em;
 font-family: fantasy;
 }
-h1{
-text-align: center;
+h1,h2,h3{
+text-align:left;
+background-color: antiquewhite;
 }
 th{
-border: solid 10px black;
+border: dotted 2px maroon;
+padding: .5em;
+}
+
+li{
+list-style:none;
+} 
+a{
+text-decoration: none;
+color: maroon;
+}
+@media print{
+    body{
+    font-size: 15px;
+    }
 }
